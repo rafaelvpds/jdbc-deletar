@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
 
-public class DB {
+public class Db {
 // Metodos estaticos para conectar e desconectar com o banco de dados
 
 	private static Connection conn = null;
